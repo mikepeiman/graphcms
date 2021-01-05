@@ -18,7 +18,7 @@
     "@node-steam/vdf": "^2.0.1",
     "airtable": "^0.5.10",
     "ajv": "^6.10.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "change-case": "^3.1.0",
     "cheerio": "^1.0.0-rc.2",
     "flatted": "^2.0.0",
